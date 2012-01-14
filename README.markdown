@@ -3,6 +3,8 @@ Stripe.com Wordpress Plugin
 
 I converted @joeynelson 's code here https://github.com/wlrs/stripe-terminal to a Wordpress plugin. The plugin allows you to easily add http://stripe.com payment services to your Wordpress site and begin accepting credit cards.
 
+> If you are interested in a full featured plugin, please try [this one](http://diglabs.com/stripe). This full featured plugin allows for custom forms and the ability to provide callbacks in the payment processing.
+
 
 Getting Started
 ----------------------
